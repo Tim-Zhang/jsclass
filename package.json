@@ -1,5 +1,5 @@
 {
-  "name": "jsclass",
+  "name": "simpleclass",
   "version": "0.1.0",
   "description": "Class for javascript",
   "main": "Class.js",
