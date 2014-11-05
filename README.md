@@ -1,0 +1,4 @@
+jsclass
+=======
+
+Class for javascript
