@@ -12,5 +12,16 @@
     "js"
   ],
   "author": "Tim Zhang",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Tim-Zhang/jsclass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tim-Zhang/jsclass/issues"
+  },
+  "homepage": "https://github.com/Tim-Zhang/jsclass"
 }
