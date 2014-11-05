@@ -1,0 +1,16 @@
+{
+  "name": "jsclass",
+  "version": "0.1.0",
+  "description": "Class for javascript",
+  "main": "Class.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "class",
+    "javascript",
+    "js"
+  ],
+  "author": "Tim Zhang",
+  "license": "ISC"
+}
